@@ -8,9 +8,11 @@ Covert Channel documentation
 
 Project Information
 ------------------
-|Name: Oğuz Han Kaya, Furkan Karaca
-|Group ID: 85
-|Repository: https://github.com/oguzhankayaa/covertovert
+Name: Oğuz Han Kaya, Furkan Karaca
+
+Group ID: 85
+
+Repository: https://github.com/oguzhankayaa/covertovert
 
 
 .. toctree::
